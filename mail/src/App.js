@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Contact Us</h1>
+      <h1>User Details</h1>
       <form onSubmit={handleSubmit}>
         <div>
           <label>Name:</label>
